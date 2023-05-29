@@ -40,5 +40,3 @@ Un véhicule **propre** et **réparé**, avec une **carte grise** et **tout en r
 Mail : **Benji's#0001**
 
 Numéro KRP : **/**
-
-Numéro : **06.38.37.47.54**
